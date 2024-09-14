@@ -8,7 +8,7 @@ sites:
   - name: Containers
     url: $CONTAINERS
   - name: BrokenSite
-    url: https://thissitedoesnotexist.koj.co
+    url: https://thissitedoesnotexistfs.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -40,6 +40,8 @@ notifications:
   NOTIFICATION_EMAIL_SMTP_USERNAME: resend
   NOTIFICATION_EMAIL_SMTP_PASSWORD: $NOTIFICATION_EMAIL_SMTP_PASSWORD
   NOTIFICATION_SMS_TWILIO: true
+  NOTIFICATION_SMS_FROM: $NOTIFICATION_SMS_FROM
+  NOTIFICATION_SMS_TO: $NOTIFICATION_SMS_TO
   NOTIFICATION_SMS_TWILIO_ACCOUNT_SID: $NOTIFICATION_SMS_TWILIO_ACCOUNT_SID
   NOTIFICATION_SMS_TWILIO_AUTH_TOKEN: $NOTIFICATION_SMS_TWILIO_AUTH_TOKEN
 

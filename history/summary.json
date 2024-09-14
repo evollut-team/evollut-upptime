@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1074,
-    "timeDay": 1074,
-    "timeWeek": 1074,
-    "timeMonth": 1074,
-    "timeYear": 1074,
+    "time": 1022,
+    "timeDay": 1022,
+    "timeWeek": 1022,
+    "timeMonth": 1022,
+    "timeYear": 1022,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1323,
-    "timeDay": 1323,
-    "timeWeek": 1323,
-    "timeMonth": 1323,
-    "timeYear": 1323,
+    "time": 1385,
+    "timeDay": 1385,
+    "timeWeek": 1385,
+    "timeMonth": 1385,
+    "timeYear": 1385,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "BrokenSite",
-    "url": "https://thissitedoesnotexistfs1.koj.co",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexistfs1.koj.co.ico",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-09-14": 60
-    }
   }
 ]

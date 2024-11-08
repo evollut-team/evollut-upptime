@@ -4,9 +4,9 @@
     "url": "$MAIN_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 977,
     "timeMonth": 1018,
     "timeYear": 993,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-08": 0
+    }
   },
   {
     "name": "Containers",
@@ -52,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-08": 46,
+      "2024-11-08": 1365,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
